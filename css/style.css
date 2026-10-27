@@ -1,7 +1,14 @@
 body {
-    background-color: rgb(224, 178, 185);
+    background-color: white;
 }
 
+.footer {
+    background-color: black;
+}
+
+.a {
+    color: white;
+}
 
 
 .titre-glam {
